@@ -1,5 +1,5 @@
 # 3D-Printing-Flows
-This project $\textbf{(3D_Printing.pdf)}$ is a detailed discussiion on $\textbf{Heat and Fluid}$ flow inside a 3D Printer.
+This project is a detailed discussion on $\textbf{Heat and Fluid}$ flow inside a 3D Printer, compiled in $\textbf{(3D-Printing.pdf)}$.
 
 From the introduction to 3D Printing, it has all the prerequisites covered from the basics.
 
